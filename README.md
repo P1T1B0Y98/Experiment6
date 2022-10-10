@@ -1,6 +1,6 @@
-# AngularCrash
+# Experiment 6 - Todo SPA
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4 and contains the code for the SPA by using the restapi for todos made in [assignment4](https://github.com/P1T1B0Y98/dat250-sparkjava-counter). 
 
 ## Development server
 
